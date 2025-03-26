@@ -118,7 +118,7 @@
 </div>
 
 <footer style="text-align:center; padding: 10px; background: #222; color: white; margin-top: 20px;">
-    © 2023 LAKSHMI PRIYA K
+    © 2025 LAKSHMI PRIYA K
 </footer>
 
 </body>
